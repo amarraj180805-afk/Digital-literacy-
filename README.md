@@ -1,7 +1,10 @@
 # Digital Literacy Portfolio
 
 ## Student Details
-- Name: Amar Raj  
+- Name: Amar Raj
+- Branch:AIML
+- Year:1st Year
+- My learning goal: My goal is to learn programming deeply and create useful and innovative software solutions.
 - Registration Number: 25BAI10917  
 - Course: CSE0001 – Digital Literacy  
 - University: VIT Bhopal University  
